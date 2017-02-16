@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IPC.iml" filepath="$PROJECT_DIR$/IPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-aidl/client-aidl.iml" filepath="$PROJECT_DIR$/client-aidl/client-aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-messenger/client-messenger.iml" filepath="$PROJECT_DIR$/client-messenger/client-messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-aidl/server-aidl.iml" filepath="$PROJECT_DIR$/server-aidl/server-aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-messenger/server-messenger.iml" filepath="$PROJECT_DIR$/server-messenger/server-messenger.iml" />
+    </modules>
+  </component>
+</project>
